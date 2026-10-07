@@ -95,6 +95,32 @@ General purpose, Build your own, Multi-agent
 - [GitHub](https://github.com/HumanSignal/Adala)
 </details>
 
+## [Agent](https://github.com/Past-da-king/agent)
+Autonomous always-on agent that runs on your Android phone
+
+<details>
+
+![Image](https://raw.githubusercontent.com/Past-da-king/agent/main/docs/social-preview.png)
+
+### Category
+General purpose, Personal assistant, Productivity
+
+### Description
+- An Android app that runs an autonomous, always-on agent on the phone itself. Free and open source under MIT, with no account and no subscription.
+- Wiki memory: a linked page on the phone for everything it learns, which the user can read, edit, pin or delete.
+- Its own browser runs in a foreground service, so it keeps working while the user is in another app, and it hands a page over when a site asks for a sign-in or a captcha.
+- Connects to apps through Composio with the user's own key, such as Gmail, Calendar, Drive and Slack, and can hold several accounts per app.
+- Voice notes in and out, live calls with a Gemini key, and documents and scanned PDFs read on the device.
+- Routines run on a clock, on a new email, or on a notification from an app the user picks. Heavy jobs are handed to any machine the user can SSH into.
+- Bring your own model: an API key, an OpenAI-compatible endpoint, or a ChatGPT or Claude subscription.
+- Sideloaded APK of about 215 MB for Android 10 or newer on arm64. There is no Play Store listing.
+
+### Links
+- [GitHub](https://github.com/Past-da-king/agent)
+- [Releases](https://github.com/Past-da-king/agent/releases/latest)
+- [Project page](https://past-da-king.github.io/agent/)
+</details>
+
 ## [Agent4Rec](https://github.com/LehengTHU/Agent4Rec)
 Recommender system simulator with 1,000 agents
 
